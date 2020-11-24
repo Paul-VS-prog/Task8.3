@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606251134 source:c:\users\ryumi\desktop\task8.23\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
